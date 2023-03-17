@@ -1,3 +1,23 @@
-Restaurant page
+# | Gericht restaurante
 
-Gericht Restaurant
+Construido en REACT
+
+
+## [Website en vivo]
+---
+
+---
+- React Components
+- Metodología CSS BEM
+- Implementando flex
+
+
+
+
+
+
+
+## 🛠 Skills
+React, HTML y CSS
+
+[Website en vivo]: <https://luisherr.github.io/Restaurant-Gericht>
