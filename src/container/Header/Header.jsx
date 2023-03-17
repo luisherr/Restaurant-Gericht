@@ -10,7 +10,7 @@ const Header = () => (
       <SubHeading title="Persigue el nuevo sabor"/>
       <h1 className='app__header-h1'>La clave buena mesa</h1>
       <p className='p__opensans' style={{ margin: '2rem 0' }}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
-      <button type='button' className='custom__button'>Explorar Menu</button>
+      <button type='button' className='custom__button'>Explorar Menú</button>
     </div>s
     <div className='app__wrapper_img'>
       <img src={images.welcome} alt="header img" />

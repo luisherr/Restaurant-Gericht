@@ -18,21 +18,21 @@ const Navbar = () => {
           <a href="#home">Home</a>
         </li>
         <li className="p__opensans">
-          <a href="#about">About</a>
+          <a href="#about">Acerca de</a>
         </li>
         <li className="p__opensans">
-          <a href="#menu">Menu</a>
+          <a href="#menu">Menú</a>
         </li>
         <li className="p__opensans">
-          <a href="#awards">Awards</a>
+          <a href="#awards">Premios</a>
         </li>
         <li className="p__opensans">
-          <a href="#contact">Contact</a>
+          <a href="#contact">Contactanos</a>
         </li>
       </ul>
       <div className="app__navbar-login">
         <a href="#loin" className="p__opensans">
-          Log in / Register
+          Iniciar sesión / Registrarse
         </a>
         <div />
         <a href="/" className="p__opensans">
@@ -54,16 +54,16 @@ const Navbar = () => {
               <a href="#home">Home</a>
             </li>
             <li className="p__opensans">
-              <a href="#about">About</a>
+              <a href="#about">Acerca de</a>
             </li>
             <li className="p__opensans">
-              <a href="#menu">Menu</a>
+              <a href="#menu">Menú</a>
             </li>
             <li className="p__opensans">
-              <a href="#awards">Awards</a>
+              <a href="#awards">Premios</a>
             </li>
             <li className="p__opensans">
-              <a href="#contact">Contact</a>
+              <a href="#contact">Contactanos</a>
             </li>
           </ul>
         </div>
